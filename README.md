@@ -13,6 +13,8 @@
   - Image Processing
   - Cryptography
 
+P.S. Most of my web applications related work is in private repositories. Sorry. If you want to offer me a job, you can contact me and we'll work something out.
+
 <!---
 tlgnoff/tlgnoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
