@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azat. I have:
   - B.S. in Computer Engineering (METU)
-  - 8 years of coding with variety of programming languages and tools (I started with C/C++, familiar with Haskell, Prolog, tried Java and many other languages, but love Python)
+  - 6 years of coding with variety of programming languages and tools (I started with C/C++, familiar with Haskell, Prolog, tried Java and many other languages, but love Python)
   - 2+ years of Full Stack Engineer experience (backend, frontend, devOps, system design)
 
 - Recently I mostly work with:
